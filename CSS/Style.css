@@ -1,0 +1,172 @@
+/* Universal Selector */
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Titillium Web', sans-serif;
+}
+header{
+    background-color: #87509c;
+    width: 100%;
+    float: left;
+    margin: auto;
+    color: #ffffff;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+nav{
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+.logo{
+    width: 50%;
+    float: left;
+}
+.menu{
+    width: 50%;
+    float: left;
+    padding: 10px 0px;
+    text-align: end;
+}
+.menu li{
+display: inline-block;
+margin: 0px 10px;
+padding: 6px;
+border-radius: 5px;
+
+}
+.menu li:hover{
+    background-color: rgba(0, 0, 0, 0.322);
+
+}
+.menu a{
+    font-size: 17px;
+    color: #ffffff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.hero_part{
+    width: 100%;
+    float: left;
+    margin: 150px 0px;
+    text-align: center;
+}
+.hero_part h1{
+    font-size: 45px;
+    font-weight: 700;
+    width: 58%;
+    margin: auto;
+
+}
+.hero_part a button{
+    background-color: #eb7d4b;
+    width: 15%;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 30px;
+    font-weight: 300;
+    border-radius: 5px;
+    
+    
+}
+.hero_part a button:hover{
+    box-shadow: 2px 2px 4px #eb7e4b6e;
+    border-radius: 15px;
+    background-color: #ebc1ae;
+    /* transition: ease-in-out 0.8s; */
+}
+
+#Service{
+    background-color: #17c2a4;
+    width: 100%;
+    float: left;
+    color: #ffffff;
+    text-align: center;
+}
+
+section{
+    padding: 100px 0px;
+}
+
+.text-part{
+    width: 100%;
+    float: left;
+
+}
+.Box-part{
+    width: 100%;
+    float: left;
+
+}
+
+.box{
+    width: 25%;
+    float: left;
+    padding: 60px;
+    
+}
+.box p{
+    font-size: 20px;
+    
+}
+
+.global_hadeang{
+    font-size: 30px;
+}
+
+h2{
+    letter-spacing: 4px;
+    font-weight: 400px;
+    font-size: 50px;
+}
+h3{
+    letter-spacing: 2px;
+    font-weight: 400px;
+    font-size: 50px;
+    color: rgba(0, 0, 0, 0.753);
+}
+.Underline{
+    border-top: 5px solid rgba(0, 0, 0, 0.199);
+    width: 6%;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#team{
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: #e7f1f8;
+}
+.post{
+    padding: 10px 10px;
+    color: deepskyblue;
+    font-size: 20px;
+}
+.p1{
+    font-size: 24px;
+    width: 45%;
+    margin: auto;
+}
+.p2{
+    font-size: 24px;
+    width: 50%;
+    margin: auto;
+}
+.link{
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+.link img{
+    padding: 5px;
+}
+
+
